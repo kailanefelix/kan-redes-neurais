@@ -2,6 +2,9 @@
 
 ## Pykan 
 
+![image](https://github.com/kailanefelix/kan-redes-neurais/assets/89281114/991ff334-77b5-4a2b-ade4-037555d3e444)
+
+
 Redes de Kolmogorov-Arnold (KANs) são uma proposta de arquitetura de rede neural inspirada no teorema de representação de Kolmogorov-Arnold. Essa abordagem é considerada uma alternativa promissora às Perceptrons de Múltiplas Camadas (MLPs) usadas em modelos de aprendizado profundo.
 
 ### 📈 Características Principais
